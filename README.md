@@ -48,6 +48,10 @@ React Native & Node.js](https://github.com/bugratemirci/futscout)
 - ☁️ Weather Classification with PyQT5 & Keras
 - 📺 CMS Application with [Spring Boot](https://github.com/bugratemirci/VODCMS) & [Angular](https://github.com/bugratemirci/VODCMS_ANGULAR)
 
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=bugratemirci&count_private=true&show_icons=true&theme=merko" width="80%">
+</p>
 <!---
 bugratemirci/bugratemirci is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
