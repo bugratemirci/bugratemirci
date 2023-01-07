@@ -50,8 +50,8 @@ React Native & Node.js](https://github.com/bugratemirci/futscout)
 
 ## GitHub Stats
 
- <img src="https://github-readme-stats.vercel.app/api?username=bugratemirci&show_icons=true&theme=tokyonight" width="50%">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bugratemirci&layout=compact&theme=tokyonight"    width="50%">
+ <img src="https://github-readme-stats.vercel.app/api?username=bugratemirci&show_icons=true&theme=synthwave" width="50%">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bugratemirci&layout=compact&theme=synthwave"    width="50%">
  
 
 
