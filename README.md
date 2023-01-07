@@ -48,10 +48,11 @@ React Native & Node.js](https://github.com/bugratemirci/futscout)
 - ☁️ Weather Classification with PyQT5 & Keras
 - 📺 CMS Application with [Spring Boot](https://github.com/bugratemirci/VODCMS) & [Angular](https://github.com/bugratemirci/VODCMS_ANGULAR)
 
-## GitHub Stats
+## <b>My GitHub Stats</b>
 
- <img src="https://github-readme-stats.vercel.app/api?username=bugratemirci&show_icons=true&theme=synthwave" width="50%">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bugratemirci&layout=compact&theme=synthwave"    width="50%">
+<a href="http://www.github.com/bugratemirci"><img src="https://github-readme-stats.vercel.app/api?username=bugratemirci&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="BugraTemirci's GitHub stats" /></a>
+
+<a href="https://github.com/bugratemirci" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bugratemirci&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
  
 
 
