@@ -16,18 +16,27 @@ I am a person who always prioritizes own
 responsibilities and focuses on solving everyones
 problems.
 
-# Technologies
-```typescript
-let toolsAndTechnologies = ["React Native", "React", "Angular", "MVC", "MSSQL"]
+## Languages
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Sql](	https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-toolsAndTechnologies.push(["PostgreSQL", "Spring Boot", "MongoDB", "MySQL", "Entity Framework"])
+## Technologies 
 
-let programmingLanguages = ["Java", "C", "C#", "Python", "Javascript", "Typescript"]
+![Angular](	https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![SpringBoot](	https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
-let others = ["Apache Kafka", "Docker CLI", "GIT"]
-```
 
-# Projects
+
+
+## Projects
 
 - 🎮 GameBuddy Game Buddy Application with
 React Native & Node.js 
