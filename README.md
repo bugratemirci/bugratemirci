@@ -38,8 +38,7 @@ problems.
 
 ## Projects
 
-- 🎮 GameBuddy Game Buddy Application with
-React Native & Node.js 
+- 🎮 GameBuddy Application with React Native & Node.js 
 - ⚽ [FutScout Application with
 React Native & Node.js](https://github.com/bugratemirci/futscout)
 - 🥘Q Recipe App with
